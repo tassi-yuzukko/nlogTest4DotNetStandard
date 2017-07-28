@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nlogTest4DotNetStandard", "nlogTest4DotNetStandard\nlogTest4DotNetStandard.csproj", "{8150B1CD-4D13-4267-8CCA-080A931B3FDF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetStandardLogTest", "DotNetStandardLogTest\DotNetStandardLogTest.csproj", "{0B769A6B-6071-4A69-8F8D-86E51F40655B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8150B1CD-4D13-4267-8CCA-080A931B3FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8150B1CD-4D13-4267-8CCA-080A931B3FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8150B1CD-4D13-4267-8CCA-080A931B3FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8150B1CD-4D13-4267-8CCA-080A931B3FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B769A6B-6071-4A69-8F8D-86E51F40655B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B769A6B-6071-4A69-8F8D-86E51F40655B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B769A6B-6071-4A69-8F8D-86E51F40655B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B769A6B-6071-4A69-8F8D-86E51F40655B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
